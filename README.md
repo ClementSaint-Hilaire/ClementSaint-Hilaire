@@ -5,6 +5,7 @@ Je suis un développeur junior et UI/UX designer passionné par la création de 
 
 ## Compétences
 - Langages de programmation : php, html, css, js, yaml, java, python, SQL
+- Framework : synfony
 
 ## Projets récents
 - Portefolio : Afin de mieux me faire connaîte, moi et mon travail, je crée ce portefolio from scratch.
