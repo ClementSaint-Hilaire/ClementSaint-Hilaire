@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub ! 👋
+# Bienvenue sur mon profil GitHub ! ✌
 
 ## À propos de moi
 Je suis un développeur junior et UI/UX designer passionné par la création de solutions innovantes. Actuellement étudiant, je m'efforce d'apprendre continuellement et d'améliorer mes compétences en programmation.
