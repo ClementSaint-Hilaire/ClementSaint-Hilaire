@@ -4,7 +4,7 @@
 Je suis un développeur junior et UI/UX designer passionné par la création de solutions innovantes. Actuellement étudiant, je m'efforce d'apprendre continuellement et d'améliorer mes compétences en programmation.
 
 ## Compétences
-- **Langages de programmation** : php, html, css, js, yaml, java, python, SQL
+- **Langages de programmation** : PHP, HTML, CSS, js, yaml, java, python, SQL
 - **Framework** : symfony
 
 ## Projets récents
