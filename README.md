@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub ! ✌
 
 ## À propos de moi
-Je suis un développeur junior et UI/UX designer passionné par la création de solutions innovantes. Actuellement étudiant, je m'efforce d'apprendre continuellement et d'améliorer mes compétences en programmation.
+Je suis développeur et UI/UX designer junior passionné par la création de solutions innovantes. Actuellement étudiant, je m'efforce d'apprendre continuellement et d'améliorer mes compétences en programmation.
 
 ## Compétences
 - **Langages de programmation** : PHP, HTML, CSS, JS, YA%L, JAVA, PYTHON, SQL
