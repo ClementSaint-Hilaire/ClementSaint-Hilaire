@@ -12,7 +12,7 @@ Je suis développeur et UI/UX designer junior passionné par la création de sol
 - **CriseTool** : Ce Projet est réalisé pour la Communauté de Communes Coeur Côte Fleurie dans le cadre du développement d'un outil interne de gestion de crise. Je passerais le projet en public lors de sa sortie en V1.
 
 ## Mes objectifs
-Je suis actuellement concentré sur le renforcement de mes connaissance et l'aquisition de nouvelles compétences. Je suis évidement ouvert à toutes collaboration sur des projets dans ce sens.
+Je suis actuellement concentré sur le renforcement de mes connaissances et l'aquisition de nouvelles compétences. Je suis évidement ouvert à toutes collaborations sur des projets dans ce sens.
 
 ## Comment me contacter
 - 📧 Mail : clement.saint-hilaire.pro@gmail.com
