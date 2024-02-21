@@ -5,7 +5,7 @@ Je suis développeur et UI/UX designer junior passionné par la création de sol
 
 ## Compétences
 - **Langages de programmation** : PHP, HTML, CSS, JS, YA%L, JAVA, PYTHON, SQL
-- **Framework** : symfony, tailwind UI, Bootstrap
+- **Framework** : symfony, tailwind, Bootstrap
 
 ## Projets récents
 - **Portefolio** : Afin de mieux me faire connaîte, moi et mon travail, je crée ce portefolio from scratch.
