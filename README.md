@@ -19,6 +19,6 @@ Je suis actuellement concentré sur le renforcement de mes connaissances et l'aq
 - 💼 Linkedin : https://www.linkedin.com/in/clément-saint-hilaire-01412a282
 - 🐦 Thread : https://www.threads.net/@clement.sainthilaire
 - 💻 Portefolio : https://clement.sainthilaire.fr
-- Figma : https://www.figma.com/@cshd
+- 🎨 Figma : https://www.figma.com/@cshd
 
 N'hésitez pas à explorer mes projets et à me contacter pour discuter de collaborations ou de tout autre sujet intéressant !
