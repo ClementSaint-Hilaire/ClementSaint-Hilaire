@@ -8,7 +8,7 @@ Je suis développeur et UI/UX designer junior passionné par la création de sol
 - **Framework** : Symfony, Tailwind, Bootstrap
 
 ## Projets récents
-- **Portefolio** : Afin de mieux me faire connaîte, moi et mon travail, je crée ce portefolio from scratch.
+- **Cards** : Afin d'exposer mes différentes recherche et pensées, je créer ce site blog pour partager mes idées : https://clementsainthilaire.fr
 - **CriseTool** : Ce Projet est réalisé pour la Communauté de Communes Coeur Côte Fleurie dans le cadre du développement d'un outil interne de gestion de crise. Je passerais le projet en public lors de sa sortie en V1.
 
 ## Mes objectifs
