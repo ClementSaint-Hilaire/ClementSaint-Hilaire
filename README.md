@@ -15,10 +15,10 @@ Je suis développeur et UI/UX designer junior passionné par la création de sol
 Je suis actuellement concentré sur le renforcement de mes connaissances et l'aquisition de nouvelles compétences. Je suis évidement ouvert à toutes collaborations sur des projets dans ce sens.
 
 ## Comment me contacter ?
+- 💻 Portefolio : https://clementsainthilaire.fr
 - 📧 Mail : clement.saint-hilaire.pro@gmail.com
 - 💼 Linkedin : https://www.linkedin.com/in/clément-saint-hilaire-01412a282
 - 🐦 Thread : https://www.threads.net/@clement.sainthilaire
-- 💻 Portefolio : https://clementsainthilaire.fr
 - 🎨 Figma : https://www.figma.com/@cshd
 
 
