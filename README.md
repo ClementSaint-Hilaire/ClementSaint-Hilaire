@@ -5,7 +5,7 @@ Je suis développeur et UI/UX designer junior passionné par la création de sol
 
 ## Compétences
 - **Langages de programmation** : PHP, HTML, CSS, JS, YAML, JAVA, PYTHON, SQL
-- **Framework** : Symfony, Tailwind, Bootstrap
+- **Framework** : Symfony, Tailwind, Bootstrap, React.Js, Next.Js
 
 ## Projets récents
 - **Cards** : Afin d'exposer mes différentes recherche et pensées, je créer ce site blog pour partager mes idées : https://clementsainthilaire.fr
