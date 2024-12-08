@@ -16,7 +16,7 @@ Je suis actuellement concentré sur le renforcement de mes connaissances et l'aq
 
 ## Comment me contacter ?
 - 💻 Portefolio : https://clementsainthilaire.fr
-- 📧 Mail : clement.saint-hilaire.pro@gmail.com
+- 📧 Mail : clement.sainthilaire.pro@gmail.com
 - 💼 Linkedin : https://www.linkedin.com/in/clément-saint-hilaire-01412a282
 - 🐦 Thread : https://www.threads.net/@clement.sainthilaire
 - 🎨 Figma : https://www.figma.com/@cshd
