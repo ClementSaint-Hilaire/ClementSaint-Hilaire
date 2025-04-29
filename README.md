@@ -3,7 +3,7 @@
 ## À propos de moi  
 Je suis UI/UX designer avec quelques compétences en developpement front. Actuellement alternant, je m'efforce d'apprendre continuellement et d'améliorer mes compétences et ma compréhension du code, de la programmation et du design afin de pouvoir dialoguer à égaliter avec les différentes équipes avec lesquelles je travail.  
 
-## Compétences, techno et Framwork
+## Compétences, technos et Framworks
 React, Next.Js, Astro, Laravel, Symfony, Tailwind 4.0, (et évidement les habituelles php, js, sql html, css...)  
 
 ## Projets récents  
